@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE 결과 정리"
+  short_description: "FDE 결과 정리에 필요한 입력·판단·다음 단계를 확인합니다."
+  default_prompt: "$fde-deliver 스킬을 적용해 현재 과제의 필요한 단계만 진행해줘."

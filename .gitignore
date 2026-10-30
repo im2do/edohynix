@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+.env
+.env.*
+.local/
+FDE_PROGRESS.json
+FDE_HARNESS.json
+FDE_WORKSTATE.md
+worklog/
+results/
+submissions/
+*.log

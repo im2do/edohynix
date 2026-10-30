@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE 기능 구현"
+  short_description: "FDE 기능 구현에 필요한 입력·판단·다음 단계를 확인합니다."
+  default_prompt: "$fde-build 스킬을 적용해 현재 과제의 필요한 단계만 진행해줘."

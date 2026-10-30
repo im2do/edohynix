@@ -1,0 +1,6 @@
+interface:
+  display_name: "FDE PDF 쪽수별 읽기"
+  short_description: "PDF 추출 도구를 확인하고 쪽수·빈 페이지·실패 범위를 남깁니다."
+  default_prompt: "$fde-pdf-read로 PDF를 쪽수별로 추출하고 아직 읽거나 확인하지 못한 부분을 알려줘."
+policy:
+  allow_implicit_invocation: true

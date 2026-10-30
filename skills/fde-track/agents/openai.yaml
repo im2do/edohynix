@@ -1,0 +1,6 @@
+interface:
+  display_name: "FDE 요청·진행 추적"
+  short_description: "대화의 요청을 보존하고 구현 완료·미완료·미검증을 구분합니다."
+  default_prompt: "$fde-track으로 기존 목표와 새 요청을 기록하고 매 답변에 완료·미완료·미검증 현황을 알려줘."
+policy:
+  allow_implicit_invocation: true
